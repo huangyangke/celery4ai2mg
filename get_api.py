@@ -3,7 +3,8 @@ import json
 import numpy as np
 
 
-service_url=f"http://10.1.224.7:4111/func_call" 
+# service_url=f"http://10.1.224.7:4111/func_call" 
+service_url=f"http://10.1.224.7:4111/class_call" 
 
 if __name__ == '__main__':
     test_time = 10
